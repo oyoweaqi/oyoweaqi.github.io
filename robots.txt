@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oyoweaqi.github.io/DZY/sitemap_index.txt
+Sitemap: https://oyoweaqi.github.io/GJp/sitemap_index.txt
+Sitemap: https://oyoweaqi.github.io/OqM/sitemap_index.txt
+Sitemap: https://oyoweaqi.github.io/Vrx/sitemap_index.txt
